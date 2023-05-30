@@ -26,7 +26,7 @@ The tools i will use in this project will include photoshop, illustrator, font a
 
 ### Homepage
 
-Introduction to the company and its mission. Clear navigation menu to access different sections of the website. Prominent call-to-action (CTA) buttons for job seekers and course information.
+In my homepage design i am including an introduction to the company and its porfolio of clients and employers. Clear navigation menu to access different sections of the website. Prominent call-to-action (CTA) buttons for job seekers and course information.
 
 #### About Us
 
@@ -68,11 +68,11 @@ I will ensure the website is mobile-friendly and accessible on various devices, 
 
 ### Wireframes/Storyboards
 
-![Alt text](../src/static/annotation.png)
+![Alt text](../static/annotation.png)
 
-![Alt text](../src/static/markup%20copy.png)
+![Alt text](../static/markup%20copy.png)
 
-![Alt text](../src/static/layout%20design2%20copy.png)
+![Alt text](../static/layout%20design2%20copy.png)
 
 ### Colour Schemes
 
@@ -82,7 +82,7 @@ I have used the 60, 30, 10 rule in this website to make my website appear more p
 
 This is a colour pallette of the colours i chose using the 60, 30, 10 rule.
 
-![Alt text](../src/static/Group%201.png)
+![Alt text](../static/Group%201.png)
 
 I then modified the colour scheme to a more simplistic colour pallete which was a lighter blue and white. with the hex colours of #3482b5, #eee and #ffff.
 
@@ -94,13 +94,13 @@ The fonts i have used are the segoe ui font and the bootstrap font for headdings
 
 I have came up with two designs for a navbar, one with a logo and one without. They both acheive similar goals in getting to the right information but it is more of a difference of design choice between the two. i prefer the light blue one because it appears more simplistic on the page and less cluttered on the screen with its thin and dynamic design.
 
-![Alt text](../src/static/nav1.png)
+![Alt text](../static/nav1.png)
 
-![Alt text](../src/static/nav2.png)
+![Alt text](../static/nav2.png)
 
 ### Alternative design
 
-![Alt text](../src/static/Picture1.png)
+![Alt text](../static/Picture1.png)
 
 This was my first design implementation where i tried to implement the first iteration of colours and layout. I came to the conclusion that i did not like the flexbox layout or the orange acents, so i decided to change it to what it eventually came out to be in the final product. I also thought the logo was a little over the top so i will change it to more of a simplistic logo that lookes more professional.
 
@@ -142,13 +142,13 @@ I have created a log in or sign up page which can be accessed through the footer
 
 This is what my homepage looks like so far.
 
-![Alt text](../src/static/Picture2.png)
+![Alt text](../static/Picture2.png)
 
 My next task was to add a job specification section below the about us section to showcase the job on offer. i Decided to use a flexbox to put the information inside which is going to cover accross the width of the page.
 
 This is the final outcome of the job specification section and i think the paragraphs are nicely spaced out, however i may change the position of the text toward the center to be consistant with the about us section.
 
-![Alt text](../src/static/Picture3.png)
+![Alt text](../static/Picture3.png)
 
 ### Change Log
 
@@ -167,9 +167,9 @@ I have added a employees page giving a more in depth view about the employees.
 In my website, i have altered my design many time including the aesthetic, layout and overall useability. The first thing i altered in my design was the navbar. i thought the first one was too big and got in the way of other components like the flexboxes whixh i also changed alot. The navbar was also very cluttered with many links which i dint want and a big logo in it which i didnt like for aesthetic and uaseability uses because it got in the way, so i changes it to a nicer blue and just the brand name and with only 4 nav links to make it easier to navigate though the website. The flexboxes was the next design choice to change. I didnt like the original triple column layout i was originally going for because i thought it was too much to look at on one page so, alternatively i opted for a double column layout with the right side flex being slightly smaller than the right because i was aiming for the right flexbox to become more of a sub section of the website and the right side being more of the section to make the reader scroll on. I Then added a flexbox at the bottom of those two which covers the whole webpage and that has things about the job which wasnt in the original plan but i went for it because i felt like i needed to include a section about the job and the companys logo.
 
 I changed the logo recently from the gold logo (top logo) to the current logo (Bottom logo)
- ![Alt text](../src/static/Logo%20copy.png)
+ ![Alt text](../static/Logo%20copy.png)
 
-![Alt text](../src/static/Logo.png)
+![Alt text](../static/Logo.png)
 
 ## Test
 
@@ -177,42 +177,42 @@ Firstly i am going to test that the website can run on more than one browser (Cr
 
 I have tested the website on edge and it appears that the website works efficiently and runs normally with little loading time.
 
-![Alt text](../src/static/edge1.png)
+![Alt text](../static/edge1.png)
 
-![Alt text](../src/static/edge2.png)
+![Alt text](../static/edge2.png)
 
-![Alt text](../src/static/edge3.png)
+![Alt text](../static/edge3.png)
 
-![Alt text](../src/static/edge4.png)
+![Alt text](../static/edge4.png)
 
 I have now tested the website on firefox and the website has no issues with loading up the website and navigating through pages seems to be no problem.
 
-![Alt text](../src/static/firefox1.png)
+![Alt text](../static/firefox1.png)
 
-![Alt text](../src/static/firefox2.png)
+![Alt text](../static/firefox2.png)
 
-![Alt text](../src/static/firefox3.png)
+![Alt text](../static/firefox3.png)
 
 The response time for both edge and firefox was very fastand i was able to access all pages, interactive links and buttons with very little delay time. Now im going to test the website on one final search engine which is chrome and see how it responds to the website.
 
-![Alt text](../src/static/chrome1.png)
+![Alt text](../static/chrome1.png)
 
-![Alt text](../src/static/chrome2.png)
+![Alt text](../static/chrome2.png)
 
-![Alt text](../src/static/chrome3.png)
+![Alt text](../static/chrome3.png)
 
 The functionality of the website was tested next and i started with the navbar. I was able to access all pages through the navbar on the homescreen, apply page, about us page and employees page so no broken links were identified.
 The footer has 9 links and all work properly and efficiently allowing the user to access pages at the bottom of the website. The next feature i tested was the media feature. I tested this on chrome, firefox and edge.
 
-![Alt text](../src/static/edge%20mobile.png)
+![Alt text](../static/edge%20mobile.png)
 
-![Alt text](../src/static/firefox%20mobile.png)
+![Alt text](../static/firefox%20mobile.png)
 
-![Alt text](../src/static/chrome%20mobile.png)
+![Alt text](../static/chrome%20mobile.png)
 
 The test was successful and also shows me that the the hamburger in the top right of the screen works correctly too which is what i would like to test next.
 
-![Alt text](../src/static/media.png)
+![Alt text](../static/media.png)
 
 This feature is working as it should be and you can have access to all pages when selecting the hamburger, it also works on all the other pages just as well.
 
@@ -222,9 +222,35 @@ This feature is working as it should be and you can have access to all pages whe
 
 ### User Feedback
 
-One of my peers has given me feedback on my website and has said what went well and what i can do to improve
+One of my peers has given me feedback on my website and has said what went well and what i can do to improve:
+
+Design:
+
+The overall design of the website is clean and visually appealing. The combination of white, gray, and blue colors creates a professional look.
+The logo at the top-left corner helps in branding and adds a nice touch to the design.
+The layout is well-organized, making it easy to navigate and find information.
+Homepage:
+
+The hero image/banner on the homepage is eye-catching and sets a positive tone for the website.
+It would be helpful to have a clear and concise headline or tagline that immediately communicates the purpose or value proposition of the website.
+Consider adding some introductory text or a brief paragraph to provide an overview of your website's purpose, products, or services.
+Navigation:
+
+The navigation menu is simple and intuitive, allowing users to easily access different sections of the website.
+It might be beneficial to add some visual indication or highlight on the active page in the navigation menu to improve user experience and provide better orientation.
+Content:
+
+The "About" page provides a good amount of information about your company and its background. Consider adding more details about your team, values, or any unique selling points to further engage visitors.
+The "Services" page provides a clear overview of the services you offer. However, it would be beneficial to include more detailed descriptions of each service, including any specific features, benefits, or examples.
+The "Contact" page contains essential information and a contact form, which is great. Consider adding additional contact details like a phone number or social media links if applicable.
+Responsive Design:
+
+The website appears to be responsive and adjusts well to different screen sizes, which is essential for a good user experience across devices.
+Overall, your website has a professional and visually appealing design. To enhance it further, consider refining the content, adding more details about your services, and improving the user experience by making small tweaks to the navigation and providing clear calls to action.
 
 ## Reveiw
+
+In my website i think that the things i have done well was the layout as i felt it would make the website stand out with the different flexbox layouts and the different type of contents. I think my colour choice was sensible and modern with basic colours but makes the site simplistic. I think what i should do better is to do what my peers recommend i do and tweak the navbar slightly to match the contents and also spend some time focusing on some of the sizing for different screens as some div classes doesnt corrispond with the screen size eg.the employees box on the homepage doesnt respond with sizing very well. My plan for this website turned out to become a different concept which i find a good thing because it shows that i have been having lots of ideas for my website and i felt like my design mock ups and wireframes were foundations and turned it into what it is now.
 
 ### Response to Feedback
 
